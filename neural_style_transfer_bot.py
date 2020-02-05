@@ -18,7 +18,7 @@ import os
 from PIL import Image
 import random
 
-bot = telebot.AsyncTeleBot('787569088:AAHBGMB35RCclTy3yGpD_lRsCjKrBFn0ols')
+bot = telebot.AsyncTeleBot('')
 first = False
 second = False
 name1 = ''
